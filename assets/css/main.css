@@ -1242,7 +1242,7 @@ section,
   background: var(--surface-color);
   border-radius: 20px;
   height: 100%;
-  width: 400px; 
+  width: 400px;
   transition: all 0.3s ease-in-out;
   box-shadow: 0 5px 20px color-mix(in srgb, var(--default-color), transparent 98%);
 }
