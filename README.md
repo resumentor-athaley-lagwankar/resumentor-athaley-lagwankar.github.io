@@ -1,4 +1,4 @@
-# Athaley-Lagwankar Resume and SoP reviews
+# ResuMentor: Athaley-Lagwankar Resume and SoP reviews
 
 We are offering profile-focused Resume and SoP reviews for students and early-career professionals applying to industry roles, placements, and higher-education programs (MS/PhD) in India and abroad!
 
