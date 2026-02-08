@@ -1355,7 +1355,8 @@ section,
   }
 
   .work-process .steps-image {
-    height: 220px;
+    height: auto;
+    width: auto;
   }
 
   .work-process .steps-content {
