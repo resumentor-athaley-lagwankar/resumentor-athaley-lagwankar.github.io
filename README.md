@@ -36,5 +36,7 @@ Register before 15th March to claim the early-bird price!
 
 
 Email: athaley.lagwankar.reviews@gmail.com 
+
 Shreeya Athaley: https://www.linkedin.com/in/shreeya-athaley
+
 Atharva Lagwankar: https://www.linkedin.com/in/atharva-lagwankar 
