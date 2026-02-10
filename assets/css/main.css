@@ -1316,7 +1316,7 @@ section,
 
 .work-process .steps-features .feature-item {
   display: flex;
-  align-items: center;
+  align-items:top ;
   margin-bottom: 12px;
 }
 
