@@ -1242,7 +1242,7 @@ section,
   background: var(--surface-color);
   border-radius: 20px;
   height: 100%;
-  width: 400px;
+  width: auto;
   transition: all 0.3s ease-in-out;
   box-shadow: 0 5px 20px color-mix(in srgb, var(--default-color), transparent 98%);
 }
@@ -1268,8 +1268,8 @@ section,
 
 .work-process .steps-image {
   position: relative;
-  height: 225px;
-  width: 400px;
+  height: auto;
+  width: auto;
 }
 
 .work-process .steps-image img {
@@ -1337,7 +1337,8 @@ section,
 
 @media (max-width: 1199px) {
   .work-process .steps-image {
-    height: 440px;
+    height: auto;
+    width:auto;
   }
 
   .work-process .steps-content {
